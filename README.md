@@ -1,3 +1,13 @@
 # Applied Machine Learning Final Project
-Using ML to rank images based on textual descriptions
+**by Zeheng Wang and Benjamin Hwang**
+
+### Motivation ###
+
+Exploring ways to search for relevant images given a natural language query. For instance, if a user types "dog jumping to catch frisbee," your system will rank-order the most relevant images from a large database.
+
+
+
+
+
+
 
